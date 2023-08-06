@@ -83,24 +83,24 @@
         </ul>
       </td>
       <td>
-           <tr><a href="https://pub.dev/packages/get/install" title="For get size mobile phone">pub get</a></tr>
-           <tr><a href="https://pub.dev/packages/dots_indicator" title="For dot swipper">pub dots indicators</a></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
+         <tr><a href="https://pub.dev/packages/get/install" title="For get size mobile phone">pub get</a></tr>
+         <tr><a href="https://pub.dev/packages/dots_indicator" title="For dot swipper">pub dots indicators</a></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
       </td>
       <td>
-           <tr><a href="https://echo.labstack.com/docs/quick-start" title="Framework Echo">Framework Echo</a></tr>
-           <tr><a href="https://docs.gofiber.io/" title="Framework Fiber">Framework Fiber</a></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
-           <tr></tr>
+         <tr><a href="https://echo.labstack.com/docs/quick-start" title="Framework Echo">Framework Echo</a></tr>
+         <tr><a href="https://docs.gofiber.io/" title="Framework Fiber">Framework Fiber</a></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
+         <tr></tr>
       </td>
     </tr>
   </tbody>
