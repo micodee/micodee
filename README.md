@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micodee&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin-right: 10px;">
-  <img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="margin: 0 10px;">
+  <img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="margin: 0 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=micodee&theme=radical&hide_border=true" alt="GitHub Streak" style="margin-left: 10px;">
 </div>
 
