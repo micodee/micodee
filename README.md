@@ -98,7 +98,7 @@
          <ul>
             <li><a href="https://echo.labstack.com/docs/quick-start">framework echo</a></li>
             <li><a href="https://docs.gofiber.io/">framework fiber</a></li>
-            <li><a href="https://github.com/joho/godotenv" title="for get env">framework fiber</a></li>
+            <li><a href="https://github.com/joho/godotenv" title="for get env">get env</a></li>
             <li><a href="https://github.com/golang-jwt/jwt" title="for jwt">jwt</a></li>
             <li><a href="https://pkg.go.dev/golang.org/x/crypto/bcrypt" title="for hashed password">bcrypt</a></li>
             <li><a href="https://gorm.io/index.html" title="object relational mapping">gorm</a></li>
