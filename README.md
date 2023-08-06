@@ -61,9 +61,8 @@
 
 <h2 align="left">📚 Libraries:</h2>
    <div>
-      <p>
-         <span align="left">For React:</span>
-         <span align="right">For Golang:</span>
+      <p align="left">For React:
+         <div align="right">For Golang:</div>
       </p> 
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
