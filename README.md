@@ -60,38 +60,53 @@
 <a href="https://github.com/micodee" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
 
 <h2 align="left">📚 Libraries:</h2>
-   <p align="center">
-  <span style="display: inline-block; width: 33%; text-align: left;">
-    For React:<br>
-    - [react hook form](https://react-hook-form.com/)<br>
-    - [react table](https://react-table.tanstack.com/)<br>
-    - [react lazy load image](https://www.npmjs.com/package/react-lazy-load-image-component)<br>
-    - [react icons](https://react-icons.github.io/react-icons/)<br>
-    - [react infinite scroll hook](https://www.npmjs.com/package/react-infinite-scroll-hook)<br>
-    - [react spring](https://www.react-spring.io/)<br>
-    - [sass](https://sass-lang.com/)
-  </span>
-  <span style="display: inline-block; width: 33%; text-align: center;">
-    For Flutter:<br>
-    - Flutter Libraries<br>
-    - -<br>
-    - -<br>
-    - -<br>
-    - -<br>
-    - -<br>
-    - -
-  </span>
-  <span style="display: inline-block; width: 33%; text-align: right;">
-    For Golang:<br>
-    - Golang Libraries<br>
-    - -<br>
-    - -<br>
-    - -<br>
-    - -<br>
-    - -<br>
-    - -
-  </span>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>For React</th>
+      <th>For Flutter</th>
+      <th>For Golang</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="https://react-hook-form.com/">react hook form</a></li>
+          <li><a href="https://react-table.tanstack.com/">react table</a></li>
+          <li><a href="https://www.npmjs.com/package/react-lazy-load-image-component">react lazy load image</a></li>
+          <li><a href="https://react-icons.github.io/react-icons/">react icons</a></li>
+          <li><a href="https://www.npmjs.com/package/react-infinite-scroll-hook">react infinite scroll hook</a></li>
+          <li><a href="https://www.react-spring.io/">react spring</a></li>
+          <li><a href="https://sass-lang.com/">sass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Flutter Libraries</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Golang Libraries</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
