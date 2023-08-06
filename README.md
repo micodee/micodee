@@ -29,7 +29,8 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=micodee&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=micodee&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=micodee&theme=radical&hide_border=true)<br/>
 
 ---
