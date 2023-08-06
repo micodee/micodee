@@ -2,17 +2,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micodee&label=Profile%20views&color=0e75b6&style=flat" alt="micodee" /> </p>
 
-- 🔭 I’m currently working on **Biometrika Indonesia**
+👋 Hello, I'm Tommy Marcelino Hidayat!
 
-- 🌱 I’m currently learning **Next, Express & GO**
+🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast
 
-- 💬 Ask me about **Anything**
+👨‍💻 Passionate about creating innovative and scalable web applications with a focus on user experience. I enjoy tackling complex challenges and turning them into elegant solutions. 
 
-- 📫 How to reach me **danandjaya123@gmail.com**
+🌐 Proficient in a range of technologies, including:
+   - Frontend: HTML, CSS, JavaScript (React, Next)
+   - Backend: Node.js, Golang (Echo, Fiber)
+   - Database: PostgreSQL, MySQL, MongoDB
+   - DevOps: Docker, Kubernetes, CI/CD
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nTCZLVA30tXROVa1wkZ8M3_uzWCqMHcZ/view?usp=sharing" target="blank">**Here...**</a>
+📚 Constantly learning and exploring new technologies to stay up-to-date with industry trends. I believe in the power of open-source and actively contribute to the community.
 
-- ⚡ Fun fact **I'am Funny**
+🎯 Let's collaborate and build something amazing together! Feel free to check out my repositories and drop me a message.
+
+📫 You can reach me at **tommymarcelino80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
