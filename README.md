@@ -60,14 +60,16 @@
 <a href="https://github.com/micodee" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
 
 <h2 align="left">📚 Libraries:</h2>
-For React
-   - react hook form
-   - react table
-   - react lazy load image
-   - react icons
-   - react infinite scroll hook
-   - react spring
-   - sass
+<p>For React:</p>
+<ul>
+  <li><a href="https://react-hook-form.com/">react hook form</a></li>
+  <li><a href="https://react-table.tanstack.com/">react table</a></li>
+  <li><a href="https://www.npmjs.com/package/react-lazy-load-image-component">react lazy load image</a></li>
+  <li><a href="https://react-icons.github.io/react-icons/">react icons</a></li>
+  <li><a href="https://www.npmjs.com/package/react-infinite-scroll-hook">react infinite scroll hook</a></li>
+  <li><a href="https://www.react-spring.io/">react spring</a></li>
+  <li><a href="https://sass-lang.com/">sass</a></li>
+</ul>
 
 
 <!--
