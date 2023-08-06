@@ -61,8 +61,10 @@
 
 <h2 align="left">📚 Libraries:</h2>
    <div>
-      <p align="left">For React:</p> 
-      <p align="right">For Golang:</p>
+      <p>
+         <span align="left">For React:</span>
+         <span align="right">For Golang:</span>
+      </p> 
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
         <li><a href="https://react-table.tanstack.com/">react table</a></li>
