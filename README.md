@@ -60,18 +60,7 @@
 <a href="https://github.com/micodee" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
 
 <h2 align="left">📚 Libraries:</h2>
-| For React       | For Flutter    | For Golang       |
-|-----------------|----------------|------------------|
-| [react hook form](https://react-hook-form.com/) | Flutter Libraries | Golang Libraries |
-| [react table](https://react-table.tanstack.com/) | -                | -                |
-| [react lazy load image](https://www.npmjs.com/package/react-lazy-load-image-component) | -                | -                |
-| [react icons](https://react-icons.github.io/react-icons/) | -                | -                |
-| [react infinite scroll hook](https://www.npmjs.com/package/react-infinite-scroll-hook) | -                | -                |
-| [react spring](https://www.react-spring.io/) | -                | -                |
-| [sass](https://sass-lang.com/) | -                | -                |
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-   <div>
+   <div align="left">
       <p>For React:</p>
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
@@ -83,7 +72,7 @@
         <li><a href="https://sass-lang.com/">sass</a></li>
       </ul>
    </div>
-   <div>
+   <div align="center">
       <p>For Flutter:</p>
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
@@ -95,7 +84,7 @@
         <li><a href="https://sass-lang.com/">sass</a></li>
       </ul>
    </div>
-   <div>
+   <div align="right">
       <p>For Golang:</p>
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
@@ -107,7 +96,6 @@
         <li><a href="https://sass-lang.com/">sass</a></li>
       </ul>
    </div>
-</div>
 
 
 <!--
