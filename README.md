@@ -29,11 +29,13 @@
 </p>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; align-items: start;">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micodee&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
-  <img height="120" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="flex: 1;">
-  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=micodee&theme=radical&hide_border=true" alt="GitHub Streak" style="flex: 1;">
-</div>
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micodee&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
+</p>
+ 
+<p align="right">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=micodee&theme=radical&hide_border=true" alt="GitHub Streak" style="flex: 1;">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=micodee&icon=0&color=0)](https://visitcount.itsvg.in)
