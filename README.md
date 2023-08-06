@@ -96,8 +96,8 @@
       </td>
       <td>
          <ul>
-            <li><a href="https://echo.labstack.com/docs/quick-start" title="Framework Echo">Framework Echo</a></li>
-            <li><a href="https://docs.gofiber.io/" title="Framework Fiber">Framework Fiber</a></li>
+            <li><a href="https://echo.labstack.com/docs/quick-start" title="framework echo">framework echo</a></li>
+            <li><a href="https://docs.gofiber.io/" title="Framework Fiber">framework fiber</a></li>
             <li></li>
             <li></li>
             <li></li>
