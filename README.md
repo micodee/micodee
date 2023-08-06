@@ -60,7 +60,7 @@
 <a href="https://github.com/micodee" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
 
 <h2 align="left">📚 Libraries:</h2>
-<table style="width: 100%;">
+<table>
   <thead>
     <tr>
       <th>For React</th>
@@ -78,26 +78,29 @@
           <li><a href="https://www.npmjs.com/package/react-infinite-scroll-hook">react infinite scroll hook</a></li>
           <li><a href="https://www.react-spring.dev/docs/getting-started">react spring</a></li>
           <li><a href="https://www.material-react-table.com/docs/getting-started/install/">material react table</a></li>
-          <li><a href=" https://redux-toolkit.js.org/introduction/getting-started">redux toolkit</a></li>
+          <li><a href="https://redux-toolkit.js.org/introduction/getting-started">redux toolkit</a></li>
           <li><a href="https://sass-lang.com/install/">sass</a></li>
         </ul>
       </td>
       <td>
-        <ul>
-          <li><a href="https://pub.dev/packages/get/install" title="For get size mobile phone">pub get</a></li>
-          <li><a href="https://pub.dev/packages/dots_indicator" title="For dot swipper">pub dots indicators</a></li>
-        </ul>
+           <tr><a href="https://pub.dev/packages/get/install" title="For get size mobile phone">pub get</a></tr>
+           <tr><a href="https://pub.dev/packages/dots_indicator" title="For dot swipper">pub dots indicators</a></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
       </td>
       <td>
-        <ul>
-          <li>Golang Libraries</li>
-          <li>-</li>
-          <li>-</li>
-          <li>-</li>
-          <li>-</li>
-          <li>-</li>
-          <li>-</li>
-        </ul>
+           <tr><a href="https://echo.labstack.com/docs/quick-start" title="Framework Echo">Framework Echo</a></tr>
+           <tr><a href="https://docs.gofiber.io/" title="Framework Fiber">Framework Fiber</a></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
+           <tr></tr>
       </td>
     </tr>
   </tbody>
