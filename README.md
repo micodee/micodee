@@ -60,8 +60,9 @@
 <a href="https://github.com/micodee" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
 
 <h2 align="left">📚 Libraries:</h2>
-   <div align="left">
-      <p>For React:</p>
+   <div>
+      <p align="left">For React:</p> 
+      <p align="right">For Golang:</p>
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
         <li><a href="https://react-table.tanstack.com/">react table</a></li>
@@ -72,7 +73,7 @@
         <li><a href="https://sass-lang.com/">sass</a></li>
       </ul>
    </div>
-   <div align="center">
+   <div>
       <p>For Flutter:</p>
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
@@ -84,7 +85,7 @@
         <li><a href="https://sass-lang.com/">sass</a></li>
       </ul>
    </div>
-   <div align="right">
+   <div>
       <p>For Golang:</p>
       <ul>
         <li><a href="https://react-hook-form.com/">react hook form</a></li>
