@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/tommy16" target="blank">
+<a href="https://www.linkedin.com/in/tommy16" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micodee" height="30" width="40" />
 </a>
 <a href="https://instagram.com/micodeee" target="blank">
@@ -84,8 +84,8 @@
       </td>
       <td>
          <ul>
-            <li><a href="https://pub.dev/packages/get/install" title="For get size mobile phone">pub get</a></li>
-            <li><a href="https://pub.dev/packages/dots_indicator" title="For dot swipper">pub dots indicators</a></li>
+            <li><a href="https://pub.dev/packages/get/install" title="for get size mobile phone">pub get</a></li>
+            <li><a href="https://pub.dev/packages/dots_indicator" title="for dot swipper">pub dots indicators</a></li>
             <li></li>
             <li></li>
             <li></li>
@@ -96,14 +96,14 @@
       </td>
       <td>
          <ul>
-            <li><a href="https://echo.labstack.com/docs/quick-start" title="framework echo">framework echo</a></li>
-            <li><a href="https://docs.gofiber.io/" title="Framework Fiber">framework fiber</a></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li><a href="https://echo.labstack.com/docs/quick-start">framework echo</a></li>
+            <li><a href="https://docs.gofiber.io/">framework fiber</a></li>
+            <li><a href="https://github.com/joho/godotenv" title="for get env">framework fiber</a></li>
+            <li><a href="https://github.com/golang-jwt/jwt" title="for jwt">jwt</a></li>
+            <li><a href="https://pkg.go.dev/golang.org/x/crypto/bcrypt" title="for hashed password">bcrypt</a></li>
+            <li><a href="https://gorm.io/index.html" title="object relational mapping">gorm</a></li>
+            <li><a href="https://github.com/go-playground/validator/" title="validation struct">validator</a></li>
+            <li><a href="https://github.com/midtrans/midtrans-go" title="payment gateway">midtrans payment gateway</a></li>
          </ul>
       </td>
     </tr>
