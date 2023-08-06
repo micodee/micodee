@@ -60,7 +60,7 @@
 <a href="https://github.com/micodee" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,sass,materialui,bootstrap,tailwind,redux,go,nodejs,express,docker,postgres,mysql,mongodb,postman,figma&perline=20&theme=dark" alt="Skills" /></a>
 
 <h2 align="left">📚 Libraries:</h2>
-- For React
+For React
    - react hook form
    - react table
    - react lazy load image
