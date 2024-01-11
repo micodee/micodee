@@ -11,6 +11,7 @@
    - MobileApp: Flutter
    - Database: PostgreSQL, MySQL, MongoDB
    - DevOps: Docker
+   - UI/UX: Figma
 
 📚 Constantly learning and exploring new technologies to stay up-to-date with industry trends. I believe in the power of open-source and actively contribute to the community.
 
