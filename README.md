@@ -6,10 +6,11 @@
 👨‍💻 Passionate about creating innovative and scalable web applications with a focus on user experience. I enjoy tackling complex challenges and turning them into elegant solutions. 
 
 🌐 Proficient in a range of technologies, including:
-   - Frontend: HTML, CSS, JavaScript (React, Next)
-   - Backend: Node.js, Express Js, Golang (Echo, Gin, Fiber)
+   - Basics: HTML, CSS, JavaScript
+   - Frontend: React Js, Next Js
+   - Backend: Node Js, Express Js, Golang (Echo, Gin, Fiber), Rust (Actix Web)
    - MobileApp: Flutter
-   - Database: PostgreSQL, MySQL, MongoDB
+   - Database: PostgreSQL, MySQL, MongoDB, SQL Server, Oracle
    - DevOps: Docker
    - UI/UX: Figma
 
