@@ -8,7 +8,7 @@
 🌐 Proficient in a range of technologies, including:
    - Basics: HTML, CSS, JavaScript
    - Frontend: React Js, Next Js
-   - Backend: Node Js, Express Js, Golang (Echo, Gin, Fiber), Rust (Actix Web)
+   - Backend: Node Js, Express Js, Golang (Echo, Gin, Fiber), Rust (Actic Web)
    - MobileApp: Flutter
    - Database: PostgreSQL, MySQL, MongoDB, SQL Server, Oracle
    - DevOps: Docker
